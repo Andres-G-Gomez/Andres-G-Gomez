@@ -3,7 +3,7 @@
 I am currently a graduate student at the University of Florida. I am studying electrical and computer engineering, with a focus in machine learning. Additionally, I am working in the Smart Medical Informatics Learning and Evaluation Laboratory. Here, I apply artificial intelligence and a large-scale biomedical database to explore the link between diabetes and the development of Alzheimer's Disease and related dementia.
 You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][3.2]][3]. 
 
-I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will soon be writing articles outlining resources I found helpful in my journey of learning machine learning. They will likely appear on [Twitter][1]. 
+I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will soon be writing articles outlining resources I found helpful in my journey of learning machine learning. They will likely appear on Twitter. 
 
 If you found value in something I have created, please feel free to buy me a coffee [<img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true">][4] or give me a shout out [@AndresG0508][1].
 
