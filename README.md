@@ -26,5 +26,5 @@ If you found value in something I have created, please feel free to buy me a cof
 
 [1]: https://twitter.com/AndresG0508
 [2]: https://github.com/Andres-G-Gomez
-[3]: www.linkedin.com/in/andres-gomez-7410a8160
+[3]: https://www.linkedin.com/in/andres-gomez-7410a8160
 [4]: https://www.buymeacoffee.com/andresgg
