@@ -1,13 +1,14 @@
 # Hi there! <img src="https://github.com/Andres-G-Gomez/Andres-G-Gomez/blob/main/animated-waving-image-0077.gif" width="30px" height="30px" />
 
-I am currently a graduate student at the University of Florida. I am studying electrical and computer engineering, with a focus in machine learning. Additionally, I am working in [Dr. Wei Shao's](https://nephrology.medicine.ufl.edu/profile/shao-wei-1/) Artiifical Intelligence and Medical Image Analysis Laboratory. Here, I apply deep learning methods to medical images for segmentation and disease classification purposes. Future projects will be in the space of multi-modal image registration, multi-organ image segmentation, and/or discovery of imaging biomarkers for disease diagnosis. You can find me on [![LinkedIn][3.2]][3]. 
+I graduated with a master’s degree in electrical and computer engineering (ECE) from the University of Florida in May 2024. My academic pursuits centered on signal/image processing and machine learning coursework, complemented by research endeavors in computer vision.
 
-I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. I will soon be writing articles outlining resources I found helpful in my journey of learning machine/deep learning. They will likely appear on Twitter. 
+I am working with Dr. Catia Silva to build out a personalized, affect-aware multimodal educational assessment tool. This project integrates computer vision and time-series algorithms to advance learning technologies, with a specific focus on leveraging localized facial expressions for enhanced model adaptability and expressiveness. This surpasses previous methodologies, which often classify emotions into a limited set, thereby constraining the model’s flexibility.
 
-If you found value in something I have created, please feel free to buy me a coffee [<img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true">][4].
+Before that project, I worked in [Dr. Wei Shao's](https://nephrology.medicine.ufl.edu/profile/shao-wei-1/) Artificial Intelligence in Medical Image Analysis Laboratory. There, I applied deep learning methods to medical images for segmentation and disease classification purposes. My project centered on refining deep learning techniques for multi-object medical image segmentation. Specifically, I worked on optimizing vision models using methods like image augmentation, layer freezing, and fine tuning to analyze computer tomography and magnetic resonance imaging datasets. I also ran large scale experiments benchmarking recently published models against state-of-the-art medical image segmentation models.
 
+I have a passion for learning and sharing my knowledge with others in a way that’s as public as possible. On my [projects page](https://andres-g-gomez.github.io/projects/), you’ll find a collection of tutorials and articles that I’ve written to provide a comprehensive explanation of the intricacies of new segmentation models.
 
-
+You can also connect with me on [![LinkedIn][3.2]][3]. 
 
 <!--
 
