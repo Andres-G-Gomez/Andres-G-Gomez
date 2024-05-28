@@ -8,7 +8,7 @@ Before that project, I worked in [Dr. Wei Shao's](https://nephrology.medicine.uf
 
 I have a passion for learning and sharing my knowledge with others in a way that’s as public as possible. On my [projects page](https://andres-g-gomez.github.io/projects/), you’ll find a collection of tutorials and articles that I’ve written to provide a comprehensive explanation of the intricacies of new segmentation models.
 
-You can also connect with me on [![LinkedIn][3.2]][3]. 
+You can also connect with me on [LinkedIn][3]. 
 
 <!--
 
